@@ -55,6 +55,10 @@ public class Student {
         return sum / numGrades;
     }
 
+    public int getId(){
+        return id;
+    }
+
 
    
              
